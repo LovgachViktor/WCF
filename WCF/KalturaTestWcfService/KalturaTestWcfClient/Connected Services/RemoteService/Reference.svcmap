@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="891127e3-16e9-4460-a4cb-9d4271153444" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57907/StripeService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="StripeService.disco" MetadataType="Disco" ID="48b65590-b42a-43f0-8b1b-81a683c5a7e4" SourceId="1" SourceUrl="http://localhost:57907/StripeService.svc?disco" />
+    <MetadataFile FileName="StripeService.xsd" MetadataType="Schema" ID="4933595f-2e19-432a-9886-afcced6990e5" SourceId="1" SourceUrl="http://localhost:57907/StripeService.svc?xsd=xsd1" />
+    <MetadataFile FileName="StripeService1.xsd" MetadataType="Schema" ID="f46138eb-fa26-42c9-9f88-cd94d2b64996" SourceId="1" SourceUrl="http://localhost:57907/StripeService.svc?xsd=xsd0" />
+    <MetadataFile FileName="StripeService.wsdl" MetadataType="Wsdl" ID="e7a28f17-c2d3-4aaa-8ae8-87b5164e71da" SourceId="1" SourceUrl="http://localhost:57907/StripeService.svc?wsdl" />
+    <MetadataFile FileName="StripeService2.xsd" MetadataType="Schema" ID="5ea8ddc7-bb29-4b8a-ac8d-16d6b87cc27b" SourceId="1" SourceUrl="http://localhost:57907/StripeService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

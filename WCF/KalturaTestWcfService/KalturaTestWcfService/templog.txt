@@ -1,0 +1,21 @@
+Debug  [TID:11] 3:28:57 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Info  [TID:11] 3:28:59 	Payment successfully processed
+Debug  [TID:11] 3:33:05 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:11] 3:33:33 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:35] 3:38:18 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Info  [TID:35] 3:38:21 	Payment successfully processed
+Debug  [TID:35] 3:38:21 	Sended data: CustomerId: cus_E9A3t8GleymVcN123 Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:35] 3:38:21 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: -1 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:35] 3:38:22 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd123 CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:35] 3:38:22 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof1
+Debug  [TID:23] 3:39:26 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:18] 3:39:27 	Sended data: CustomerId: cus_E9A3t8GleymVcN123 Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:18] 3:39:27 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: -1 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:18] 3:39:28 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd123 CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:18] 3:39:28 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof1
+Debug  [TID:9] 3:48:00 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:15] 3:50:44 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:15] 3:50:47 	Sended data: CustomerId: cus_E9A3t8GleymVcN123 Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:15] 3:50:49 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: -1 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:15] 3:50:49 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd123 CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof
+Debug  [TID:15] 3:50:50 	Sended data: CustomerId: cus_E9A3t8GleymVcN Amount: 2000 Currency: usd CardIdcard_1DgrpEJTZKBWLpi8FWmM4gof1

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="KalturaTestWcfService.StripeService" CodeBehind="StripeService.svc.cs" %>
